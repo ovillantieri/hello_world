@@ -15,3 +15,11 @@ _You **can** combine them_
 Bidibibodibidù
 
 la più bella sei tu
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
